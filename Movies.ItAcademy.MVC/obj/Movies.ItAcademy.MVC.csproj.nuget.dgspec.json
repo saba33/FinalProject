@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.Domain\\Movies.ItAcademy.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.Domain\\Movies.ItAcademy.Domain.csproj",
+        "projectName": "Movies.ItAcademy.Domain",
+        "projectPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.Domain\\Movies.ItAcademy.Domain.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj",
+        "projectName": "Movies.ItAcademy.MVC",
+        "projectPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.MVC\\Movies.ItAcademy.MVC.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.PersistenceDb\\Movies.ItAcademy.PersistenceDb.csproj": {
+                "projectPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.PersistenceDb\\Movies.ItAcademy.PersistenceDb.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.PersistenceDb\\Movies.ItAcademy.PersistenceDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.PersistenceDb\\Movies.ItAcademy.PersistenceDb.csproj",
+        "projectName": "Movies.ItAcademy.PersistenceDb",
+        "projectPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.PersistenceDb\\Movies.ItAcademy.PersistenceDb.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.PersistenceDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.Domain\\Movies.ItAcademy.Domain.csproj": {
+                "projectPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.Domain\\Movies.ItAcademy.Domain.csproj"
+              },
+              "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.CMS.csproj": {
+                "projectPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.CMS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.CrmSdk.CoreAssemblies": {
+              "target": "Package",
+              "version": "[5.0.18, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.CMS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.CMS.csproj",
+        "projectName": "Movies.ItAdcademy.CMS",
+        "projectPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.CMS.csproj",
+        "packagesPath": "C:\\Users\\sabag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAdcademy.ge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sabag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.Domain\\Movies.ItAcademy.Domain.csproj": {
+                "projectPath": "C:\\Users\\sabag\\source\\repos\\Movies.ItAdcademy.ge\\Movies.ItAcademy.Domain\\Movies.ItAcademy.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

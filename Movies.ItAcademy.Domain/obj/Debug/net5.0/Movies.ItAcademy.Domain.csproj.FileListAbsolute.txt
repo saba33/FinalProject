@@ -1,0 +1,12 @@
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\bin\Debug\net5.0\Movies.ItAcademy.Domain.deps.json
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\bin\Debug\net5.0\Movies.ItAcademy.Domain.dll
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\bin\Debug\net5.0\ref\Movies.ItAcademy.Domain.dll
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\bin\Debug\net5.0\Movies.ItAcademy.Domain.pdb
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\obj\Debug\net5.0\Movies.ItAcademy.Domain.csproj.AssemblyReference.cache
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\obj\Debug\net5.0\Movies.ItAcademy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\obj\Debug\net5.0\Movies.ItAcademy.Domain.AssemblyInfoInputs.cache
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\obj\Debug\net5.0\Movies.ItAcademy.Domain.AssemblyInfo.cs
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\obj\Debug\net5.0\Movies.ItAcademy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\obj\Debug\net5.0\Movies.ItAcademy.Domain.dll
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\obj\Debug\net5.0\ref\Movies.ItAcademy.Domain.dll
+C:\Users\sabag\source\repos\Movies.ItAdcademy.ge\Movies.ItAcademy.Domain\obj\Debug\net5.0\Movies.ItAcademy.Domain.pdb
